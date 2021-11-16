@@ -1,0 +1,27 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy",
+      "Epistemology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "2581e92b-4c42-9c65-dc0f-b1bd4dd81cf0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Topics in Philosophy of Mind: Self-Knowledge",
+  "course_description": "This is a seminar on \"self-knowledge\" -- knowledge of one's own mental states. In addition to reading some of the classic papers on self-knowledge, we will look at some very recent work on the topic. There will be no lectures. Each week I will spend half an hour or so introducing the assigned reading, and the rest of the time will be devoted to discussion.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.500",
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
